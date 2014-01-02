@@ -1,4 +1,4 @@
 diplamap
 ========
 
-Mobile application to locate and explore objects from the Digital Public Library
+Mobile application to locate and explore objects from the Digital Public Library of America
